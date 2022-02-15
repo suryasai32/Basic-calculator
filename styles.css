@@ -1,0 +1,42 @@
+body{
+  background-color: powderblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.container-1
+{
+  text-align: center;
+}
+.container-2
+{
+  text-align: center;
+}
+span
+{
+  border-bottom: 2px solid black;
+    padding: 8px;
+}
+#num1-el
+{
+  border-bottom: 2px solid darkred;
+  margin-right: 5px;
+}
+h1
+{
+  margin-top: 0px;
+  margin-bottom: 0px;
+
+}
+p
+{
+  margin-top: 0px;
+  font-size: 2rem;
+}
+button {
+    margin: 20px 0;
+    background: white;
+    color: black;
+    border: 1px solid black;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px 8px;
+}
